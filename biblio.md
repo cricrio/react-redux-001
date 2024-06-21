@@ -1,6 +1,8 @@
 # Bibliography
 
 
+
+
 ## Documentation
 
 React doc: https://react.dev/
@@ -17,10 +19,12 @@ React router: https://reactrouter.com/en/main
 - Kent c dott, react testing: https://kentcdodds.com/blog/how-to-react
 
 ## Others
-
+- newletter js https://bytes.dev/
 - React in symphony: https://symfony.com/bundles/ux-react/current/index.html
 
+## Commands
 
+- creation projet: `npm create vite@latest my-react-app -- --template react`
 
 
 ## Ressourcs
@@ -34,3 +38,15 @@ React router: https://reactrouter.com/en/main
   -  https://www.nexus-corp.fr/blog/progressive-web-app-pwa/
   -  rdhttps://denofdevs.com/building-progressive-web-apps-pwa-with-php/
 - redux-toolkit: - https://redux-toolkit.js.org/ 
+- https://ui.shadcn.com/
+- postgres avec node.js https://node-postgres.com/
+- remix: https://remix.run/
+- date-fns https://date-fns.org/docs/Getting-Started
+- react-bootstrap https://react-bootstrap.github.io/
+- prettier https://prettier.io/
+
+
+### Form
+
+- react-hook-form: https://react-hook-form.com/
+- conform: https://conform.guide/
